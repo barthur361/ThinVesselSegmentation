@@ -1,6 +1,8 @@
 Thin Vessels Segmentation
 ========================
 
+https://ir.lib.uwo.ca/etd/1883/
+
 Modules
 ---------------
 
